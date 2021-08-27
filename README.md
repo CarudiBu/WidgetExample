@@ -3,7 +3,7 @@ For a widget to appear on the cover screen, it has to have the widgetCategory as
 This app meets all those criteria.
 
 ## Allowed package names
-`
+```
 "com.sec.android.app.shealth"
 
 "com.sec.android.app.clockpackage"
@@ -13,4 +13,4 @@ This app meets all those criteria.
 "com.sec.android.daemonapp"
 
 "com.samsung.accessory.berrymgr"
-`
+```
