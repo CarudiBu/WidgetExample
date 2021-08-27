@@ -5,8 +5,12 @@ This app meets all those criteria.
 ## Allowed package names
 `
 "com.sec.android.app.shealth"
+
 "com.sec.android.app.clockpackage"
+
 "com.sec.android.app.voicenote"
+
 "com.sec.android.daemonapp"
+
 "com.samsung.accessory.berrymgr"
 `
